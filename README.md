@@ -7,7 +7,6 @@ Kind of a 'library' for CSharp (.Net with WPF) on how to rotate images based on 
 [![GitHub forks](https://img.shields.io/github/forks/SeppPenner/RotateImagesInCSharp.svg)](https://github.com/SeppPenner/RotateImagesInCSharp/network)
 [![GitHub stars](https://img.shields.io/github/stars/SeppPenner/RotateImagesInCSharp.svg)](https://github.com/SeppPenner/RotateImagesInCSharp/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/SeppPenner/RotateImagesInCSharp/master/License.txt)
-[![Known Vulnerabilities](https://snyk.io/test/github/SeppPenner/RotateImagesInCSharp/badge.svg)](https://snyk.io/test/github/SeppPenner/RotateImagesInCSharp)
 
 [See here](https://msdn.microsoft.com/en-us/library/windows/desktop/ms534418(v=vs.85).aspx) for more information on the EXIF tags used in Windows (.Net).
 
